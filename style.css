@@ -1,0 +1,24 @@
+nav{
+    background-color: #87CEFA;
+}
+
+.keranjang{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.carousel,
+.carousel-inner,
+.carousel-item {
+  width: 80vw; /* Mengatur lebar setengah layar */
+  height: 80vh; /* Mengatur tinggi setengah layar */
+  margin: 0 auto; /* Memposisikan di tengah secara horizontal */
+}
+
+.carousel-item img {
+  object-fit: cover; /* Menjaga gambar tetap proporsional */
+  width: 100%; /* Mengisi lebar elemen carousel */
+  height: 100%; /* Mengisi tinggi elemen carousel */
+}
+
+
